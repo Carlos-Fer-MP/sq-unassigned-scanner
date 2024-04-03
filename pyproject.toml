@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "sonarqube-dashboard-utils"
+version = "0.1.0"
+description = ""
+authors = ["Carlos Rojas Fernández <crojasfe@mercadona.es>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+rich = "^13.7.0"
+requests = "^2.31.0"
+urllib3 = "^2.1.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

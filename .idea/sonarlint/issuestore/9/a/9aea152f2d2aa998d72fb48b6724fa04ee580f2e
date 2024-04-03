@@ -1,0 +1,15 @@
+
+Mpython:S3801Â"4Refactor this function to use "return" consistently.(›èò–
+Rpython:S3801×"4Refactor this function to use "return" consistently.(ç¢µàşÿÿÿÿ
+mpython:S3776±"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(µ¥ 
+ƒpython:S101ò"fRename class "UUID_adapter" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ìù¹ÿÿÿÿÿ
+Rpython:S3801ü"4Refactor this function to use "return" consistently.(†¡åƒøÿÿÿÿ
+Rpython:S3801À"4Refactor this function to use "return" consistently.(†¡åƒøÿÿÿÿ
+jpython:S2710Ó"QRename "self" to a valid class parameter name or add the missing class parameter.(ª È¼
+opython:S2710ô"QRename "self" to a valid class parameter name or add the missing class parameter.(Å“Š§úÿÿÿÿ
+jpython:S2710ı"QRename "self" to a valid class parameter name or add the missing class parameter.(Ç¬Î™
+Hpython:S1172œ"/Remove the unused function parameter "unicode".(Âµ¹Ô
+jpython:S2710•"QRename "self" to a valid class parameter name or add the missing class parameter.(µÌ
+rpython:S3776©"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(½”Ùòúÿÿÿÿ
+opython:S2710©"QRename "self" to a valid class parameter name or add the missing class parameter.(½”Ùòúÿÿÿÿ
+Cpython:S1481 	"%Remove the unused local variable "i".(™ñŞàúÿÿÿÿ

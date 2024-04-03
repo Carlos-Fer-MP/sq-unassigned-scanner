@@ -1,0 +1,11 @@
+### Python template
+*.csv
+**/**/*.pyc
+local_main.py
+main.py
+**/PRE*
+**/PRO*
+**/ITG*
+**.history*
+**__pycache__*
+log*

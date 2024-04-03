@@ -1,0 +1,11 @@
+
+lpython:S3776y"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¦ãÂ«
+Apython:S108ª")Either remove or fill this block of code.(ã‘Û¾
+Rpython:S3801ø"4Refactor this function to use "return" consistently.(†¡åƒøÿÿÿÿ
+rpython:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ã²¦øÿÿÿÿ
+opython:S2710Ö"QRename "self" to a valid class parameter name or add the missing class parameter.(Ã²¦øÿÿÿÿ
+Dpython:S5806"+Rename this variable; it shadows a builtin.(ÛïŒä
+Hpython:S6035£"0Replace this alternation with a character class.(ÓÆ¤d
+Npython:S6035­"0Replace this alternation with a character class.(óğ¼şıÿÿÿÿ
+mpython:S5843¢"TSimplify this regular expression to reduce its complexity from 32 to the 20 allowed.(°õ¢¦
+Rpython:S1135"4Complete the task associated to this "TODO" comment.(óş÷åÿÿÿÿÿ

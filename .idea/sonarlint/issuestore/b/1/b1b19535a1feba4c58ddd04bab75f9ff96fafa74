@@ -1,0 +1,22 @@
+
+npython:S1066§"/Merge this if statement with the enclosing one.(µÔñ£J$d3c65105-bba3-4f55-ae2f-114a3e12536f
+´python:S5886¾"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(á­†ÆJ$56546c35-573c-4ffc-8280-b6f348e56ca8
+´python:S5886¿"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(ÛãÜ†J$80e073f7-d8c4-49b7-bd82-0a34adc93111
+opython:S5806“"+Rename this variable; it shadows a builtin.(Ñ—­ÇùÿÿÿÿJ$1423b333-e213-4386-af9a-bb0f7b190aca
+¹python:S5886ì"uRemove this yield statement or annotate function "__rich_console__" with "typing.Generator" or one of its supertypes.(³ûğõÿÿÿÿÿJ$51a7784a-36e7-4189-9508-d0793b7e4af0
+•python:FunctionComplexity÷"DFunction has a complexity of 28 which is greater than 15 authorized.(ú„ÚüùÿÿÿÿJ$236ec22a-7d26-4939-9f60-6e787a87ff3d
+python:S107ø"MMethod "__init__" has 28 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$8f7bc2b2-e9bf-4696-8fbb-a6d0788d1989
+˜python:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$edacec2a-4002-4166-aa07-3831a6c48469
+opython:S5806ş"+Rename this variable; it shadows a builtin.(ßÕÙ½úÿÿÿÿJ$d222e7e4-bb38-4f00-8880-a735024ca90e
+“python:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(€¼²J$81083fd1-d903-48f8-9468-92fb189d9832
+œpython:S117¬
+"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿJ$0f4a6ba4-ff46-48c5-b9c9-46f8b66e284c
+python:S107Ó"JMethod "print" has 15 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$fe93fa0a-e8cd-48fa-806f-1137121b4de4
+“python:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(‰ìò¸J$7dba11df-f22f-411f-af33-a0b8e191e360
+opython:S5806"+Rename this variable; it shadows a builtin.(…ëƒÕüÿÿÿÿJ$68455fd2-0d82-4684-a7e4-ffcd6d8ad3cf
+“python:S3776À"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(Èü’éJ$03997e75-5176-47de-8b76-cd5379f1dc36
+opython:S5806ä"+Rename this variable; it shadows a builtin.(¿Ğú«ıÿÿÿÿJ$fe7558ee-f72f-424d-aec9-319c24f2d4c5
+opython:S5806‡"+Rename this variable; it shadows a builtin.(Èıñ÷şÿÿÿÿJ$f1f2330f-7dca-40a7-828d-c7f6284c8507
+“python:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(­ø±¾J$57f8346e-e04f-47d5-b6d4-9032b4f39983
+»python:S138Ñ"xThis method "export_svg" has 200 lines of code, which is greater than the 100 authorized. Split it into smaller methods.(„»Š„ıÿÿÿÿJ$19d50a9b-0566-421d-8f96-f92af1e8d441
+˜python:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(„»Š„ıÿÿÿÿJ$05870050-7e64-4b33-9985-5021d389f50f
